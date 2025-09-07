@@ -1,2 +1,2 @@
 # Bank-Management-System
-A modern bank management system using python
+A modern Bank Management System using Python
